@@ -10,9 +10,13 @@ The application will have three type of user’s at backend one will be admin ma
 
 PROJECT SCOPE->
 The scope of the project includes followings
+
 • Functional specification document to describe the complete system in low level 
+
 • User interface design for website and mobile phone and pc
+
 • Development of all functional requirements as proposed for the web and mobile application.
+
 • Setting up the system on live server in ready for use condition
 
 PROJECT FEATURE ->
